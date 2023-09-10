@@ -1,11 +1,6 @@
-# Hackathon--Portolio
-
-
-
-```markdown
 # Hackathon Portfolio Project
 
-Welcome to my portfolio project for the [Hackathon GUVI]! This README provides an overview of my project, its features, and how to set it up.
+Welcome to my portfolio project for the Hackathon GUVI! This README provides an overview of my project, its features, and how to set it up.
 
 ## Project Description
 
@@ -19,17 +14,12 @@ Welcome to my portfolio project for the [Hackathon GUVI]! This README provides a
 
 [Provide a link or instructions on how to access a live demo of your project, if available.]
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
 
 ## Installation
 
 [Provide instructions on how to set up and run your project locally. Include any dependencies or system requirements.]
 
-```bash
+
 # Clone the repository
 git clone https://github.com/yourusername/your-project.git
 
@@ -41,7 +31,7 @@ npm install
 
 # Start the application
 npm start
-```
+
 
 ## Usage
 
@@ -75,4 +65,8 @@ This project is licensed under the [License Name] License - see the [LICENSE](LI
 
 Thank you for checking out my Hackathon portfolio project! I hope you find it interesting and useful.
 ```
+
+
+
+
 
